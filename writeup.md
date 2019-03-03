@@ -16,9 +16,6 @@ Using the d coordinate from the fresnet coordinate system to check for the middl
 # The car is able to change lanes
 If the car is obstructed by another car in front of it, it checks first the left lane then the right lane for options. If it is possible it changes the lane.
 
-# Dashboard.html 
-The Dashboard.html file is used to plot the track and have a top view of the trajectory followed by the car in the simulator. To make it work, start the path_planner.exe, open it in the browser, start the simulator. As the car moves, you will see the path plotted in the page.
-
 # Model Documentation
 Model documentation can be found below.
 
